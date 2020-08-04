@@ -74,7 +74,7 @@
 <html>
 <head>
     <title>Edit Thuốc</title>
-    <link rel="stylesheet" type="text/css" href="css/add.css">
+    <link rel="stylesheet" type="text/css" href="add.css">
 </head>
 <body>
     <div class="container">
@@ -144,5 +144,5 @@
         </form>
     </div>
 </body>
-<script src="js/index.js"></script>
+<script src="index.js"></script>
 </html>
