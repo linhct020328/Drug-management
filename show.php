@@ -15,7 +15,7 @@
 <html>
 <head>
 	<title>Show Thuốc</title>
-  <link rel="stylesheet" type="text/css" href="css/show.css">
+  <link rel="stylesheet" type="text/css" href="show.css">
 
 </head>
 <body>
