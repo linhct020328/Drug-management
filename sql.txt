@@ -1,0 +1,9 @@
+CREATE TABLE `thuoc` (   
+  `maThuoc` int(11) NOT NULL auto_increment,
+ `tenThuoc` varchar(50) NOT NULL,
+`ngayHetHan` date not null,
+`nhomThuoc` varchar(20) not null,
+`soLuong` int(20) not null,
+`ghiChu` varchar(100) not null,   
+  PRIMARY KEY (`maThuoc`)   
+  );   
